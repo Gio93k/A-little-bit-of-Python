@@ -1,0 +1,7 @@
+Per testare il funzionamento fare questo caso di test 
+Crea le cartelle con i seguenti nomi: 
+
+J022911
+J025673
+S789230
+T123456
